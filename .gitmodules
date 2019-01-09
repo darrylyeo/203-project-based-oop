@@ -1,0 +1,6 @@
+[submodule "lab00-darrylyeo"]
+	path = lab00
+	url = git@github.com:CPE203-Winter2019/lab00-darrylyeo.git
+[submodule "lab1-darrylyeo"]
+	path = lab01
+	url = git@github.com:CPE203-Winter2019/lab1-darrylyeo.git
